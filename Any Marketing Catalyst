@@ -1,1 +1,484 @@
-{"name":"Any Marketing Catalyst","settings":"{\"settings\":\"{\\n    \\\"http.proxySupport\\\": \\\"off\\\",\\n    \\\"terminal.integrated.localEchoLatencyThreshold\\\": -1,\\n    \\\"terminal.integrated.localEchoEnabled\\\": \\\"off\\\",\\n    \\\"terminal.integrated.fontSize\\\": 13,\\n    \\\"workbench.startupEditor\\\": \\\"none\\\",\\n    \\\"editor.fontFamily\\\": \\\"JetBrains Mono, Menlo, Monaco, Courier New, monospace\\\",\\n    \\\"editor.fontWeight\\\": \\\"normal\\\",\\n    \\\"editor.fontSize\\\": 13,\\n    \\\"editor.lineHeight\\\": 1.5,\\n    \\\"editor.letterSpacing\\\": 0,\\n    \\\"debug.console.fontSize\\\": 13,\\n    \\\"window.commandCenter\\\": false,\\n    \\\"workbench.preferredDarkColorTheme\\\": \\\"Google Dark\\\",\\n    \\\"workbench.preferredLightColorTheme\\\": \\\"Google Light\\\",\\n    \\\"workbench.iconTheme\\\": \\\"monospace\\\",\\n    \\\"window.autoDetectColorScheme\\\": true,\\n    \\\"workbench.layoutControl.enabled\\\": false,\\n    \\\"inlineChat.mode\\\": \\\"preview\\\"\\n}\"}","globalState":"{\"storage\":{\"workbench.explorer.views.state.hidden\":\"[{\\\"id\\\":\\\"outline\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"timeline\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.explorer.openEditorsView\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.explorer.fileView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"corgiModeView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"npm\\\",\\\"isHidden\\\":true}]\",\"workbench.view.search.state.hidden\":\"[{\\\"id\\\":\\\"workbench.view.search\\\",\\\"isHidden\\\":false}]\",\"workbench.scm.views.state.hidden\":\"[{\\\"id\\\":\\\"workbench.scm.repositories\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.scm\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.scm.history\\\",\\\"isHidden\\\":false}]\",\"workbench.panel.markers.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.markers.view\\\",\\\"isHidden\\\":false}]\",\"workbench.panel.output.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.output\\\",\\\"isHidden\\\":false}]\",\"terminal.hidden\":\"[{\\\"id\\\":\\\"terminal\\\",\\\"isHidden\\\":false}]\",\"workbench.activityBar.location\":\"default\",\"workbench.activity.showAccounts\":\"false\",\"workbench.activity.pinnedViewlets2\":\"[{\\\"id\\\":\\\"workbench.view.explorer\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":0},{\\\"id\\\":\\\"workbench.view.search\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":1},{\\\"id\\\":\\\"workbench.view.scm\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":2},{\\\"id\\\":\\\"workbench.view.debug\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":3},{\\\"id\\\":\\\"workbench.view.remote\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":4},{\\\"id\\\":\\\"workbench.view.extensions\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":4},{\\\"id\\\":\\\"workbench.view.extension.test\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":6},{\\\"id\\\":\\\"workbench.view.extension.monospace-container\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":7},{\\\"id\\\":\\\"workbench.view.extension.references-view\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":8}]\",\"workbench.panel.pinnedPanels\":\"[{\\\"id\\\":\\\"workbench.panel.markers\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":0},{\\\"id\\\":\\\"workbench.panel.output\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":1},{\\\"id\\\":\\\"workbench.panel.repl\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":2},{\\\"id\\\":\\\"terminal\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":3},{\\\"id\\\":\\\"workbench.panel.testResults\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":3},{\\\"id\\\":\\\"refactorPreview\\\",\\\"pinned\\\":true,\\\"visible\\\":false}]\",\"workbench.auxiliarybar.pinnedPanels\":\"[{\\\"id\\\":\\\"workbench.idx.gemini.chat.side\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":100}]\",\"recently.opened\":\"{\\\"entries\\\":[{\\\"folderUri\\\":\\\"vscode-remote://firebase-studio-1749576237106.cluster-f4iwdviaqvc2ct6pgytzw4xqy4.cloudworkstations.dev/home/user/studio\\\",\\\"remoteAuthority\\\":\\\"firebase-studio-1749576237106.cluster-f4iwdviaqvc2ct6pgytzw4xqy4.cloudworkstations.dev\\\"}]}\",\"workbench.view.debug.state.hidden\":\"[{\\\"id\\\":\\\"workbench.debug.welcome\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.variablesView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.watchExpressionsView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.callStackView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.loadedScriptsView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.breakPointsView\\\",\\\"isHidden\\\":false}]\",\"workbench.view.extension.monospace-container.state.hidden\":\"[{\\\"id\\\":\\\"monospace.menu\\\",\\\"isHidden\\\":false}]\",\"colorThemeData\":\"{\\\"id\\\":\\\"vs-dark undefined_publisher-monospace-theme-google-dark-json\\\",\\\"label\\\":\\\"Google Dark\\\",\\\"settingsId\\\":\\\"Google Dark\\\",\\\"themeTokenColors\\\":[{\\\"settings\\\":{\\\"foreground\\\":\\\"#8e8e8eff\\\"},\\\"scope\\\":[\\\"comment\\\",\\\"punctuation.definition.comment\\\",\\\"string.comment\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":[\\\"constant\\\",\\\"entity.name.constant\\\",\\\"variable.other.constant\\\",\\\"variable.language\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#bd9cfeff\\\"},\\\"scope\\\":[\\\"entity\\\",\\\"entity.name\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#e1dfdfff\\\"},\\\"scope\\\":\\\"variable.parameter.function\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#77d5a3ff\\\"},\\\"scope\\\":\\\"entity.name.tag\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#fd8da3ff\\\"},\\\"scope\\\":\\\"keyword\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#fd8da3ff\\\"},\\\"scope\\\":[\\\"storage\\\",\\\"storage.type\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#fd8da3ff\\\"},\\\"scope\\\":[\\\"annotation\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#e1dfdfff\\\"},\\\"scope\\\":[\\\"storage.modifier.package\\\",\\\"storage.modifier.import\\\",\\\"storage.type.java\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#77d5a3ff\\\"},\\\"scope\\\":[\\\"string\\\",\\\"punctuation.definition.string\\\",\\\"string punctuation.section.embedded source\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#85cdf1ff\\\"},\\\"scope\\\":[\\\"string.quoted.double.html\\\",\\\"string.quoted.single.html\\\",\\\"string.unquoted.html\\\",\\\"punctuation.definition.string.begin.html\\\",\\\"punctuation.definition.string.end.html\\\",\\\"string.quoted.double.xml\\\",\\\"string.quoted.single.xml\\\",\\\"string.unquoted.xml\\\",\\\"punctuation.definition.string.begin.xml\\\",\\\"punctuation.definition.string.end.xml\\\",\\\"string punctuation.section.embedded source\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"support\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#85cdf1ff\\\"},\\\"scope\\\":[\\\"support.type.property-name\\\",\\\"entity.name.tag.yaml\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"meta.property-name\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffd395ff\\\"},\\\"scope\\\":\\\"variable\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#e1dfdfff\\\"},\\\"scope\\\":\\\"variable.other\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#ffc6d0ff\\\"},\\\"scope\\\":\\\"invalid.broken\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#ffc6d0ff\\\"},\\\"scope\\\":\\\"invalid.deprecated\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#ffc6d0ff\\\"},\\\"scope\\\":\\\"invalid.illegal\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#ffc6d0ff\\\"},\\\"scope\\\":\\\"invalid.unimplemented\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic underline\\\",\\\"background\\\":\\\"#fd8da3ff\\\",\\\"foreground\\\":\\\"#292929ff\\\",\\\"content\\\":\\\"^M\\\"},\\\"scope\\\":\\\"carriage-return\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffc6d0ff\\\"},\\\"scope\\\":\\\"message.error\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#e1dfdfff\\\"},\\\"scope\\\":\\\"string source\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"string variable\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#77d5a3ff\\\"},\\\"scope\\\":[\\\"source.regexp\\\",\\\"string.regexp\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#77d5a3ff\\\"},\\\"scope\\\":[\\\"string.regexp.character-class\\\",\\\"string.regexp constant.character.escape\\\",\\\"string.regexp source.ruby.embedded\\\",\\\"string.regexp string.regexp.arbitrary-repitition\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#77d5a3ff\\\"},\\\"scope\\\":\\\"string.regexp constant.character.escape\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"support.constant\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"support.variable\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"meta.module-reference\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffd395ff\\\"},\\\"scope\\\":\\\"punctuation.definition.list.begin.markdown\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":[\\\"markup.heading\\\",\\\"markup.heading entity.name\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#77d5a3ff\\\"},\\\"scope\\\":\\\"markup.quote\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#e1dfdfff\\\"},\\\"scope\\\":\\\"markup.italic\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#e1dfdfff\\\"},\\\"scope\\\":\\\"markup.bold\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"markup.raw\\\"},{\\\"settings\\\":{\\\"background\\\":\\\"#670023ff\\\",\\\"foreground\\\":\\\"#ffc6d0ff\\\"},\\\"scope\\\":[\\\"markup.deleted\\\",\\\"meta.diff.header.from-file\\\",\\\"punctuation.definition.deleted\\\"]},{\\\"settings\\\":{\\\"background\\\":\\\"#00391fff\\\",\\\"foreground\\\":\\\"#77d5a3ff\\\"},\\\"scope\\\":[\\\"markup.inserted\\\",\\\"meta.diff.header.to-file\\\",\\\"punctuation.definition.inserted\\\"]},{\\\"settings\\\":{\\\"background\\\":\\\"#834314ff\\\",\\\"foreground\\\":\\\"#ffd395ff\\\"},\\\"scope\\\":[\\\"markup.changed\\\",\\\"punctuation.definition.changed\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#3e3e3eff\\\",\\\"background\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":[\\\"markup.ignored\\\",\\\"markup.untracked\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#bd9cfeff\\\",\\\"fontStyle\\\":\\\"bold\\\"},\\\"scope\\\":\\\"meta.diff.range\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"meta.diff.header\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"meta.separator\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#8da8ffff\\\"},\\\"scope\\\":\\\"meta.output\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#a8a8a8ff\\\"},\\\"scope\\\":[\\\"brackethighlighter.tag\\\",\\\"brackethighlighter.curly\\\",\\\"brackethighlighter.round\\\",\\\"brackethighlighter.square\\\",\\\"brackethighlighter.angle\\\",\\\"brackethighlighter.quote\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffc6d0ff\\\"},\\\"scope\\\":\\\"brackethighlighter.unmatched\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#77d5a3ff\\\",\\\"fontStyle\\\":\\\"underline\\\"},\\\"scope\\\":[\\\"constant.other.reference.link\\\",\\\"string.other.link\\\"]}],\\\"semanticTokenRules\\\":[{\\\"_selector\\\":\\\"property.annotation\\\",\\\"_style\\\":{\\\"_foreground\\\":\\\"#85cdf1\\\",\\\"_bold\\\":null,\\\"_underline\\\":null,\\\"_italic\\\":null,\\\"_strikethrough\\\":null}},{\\\"_selector\\\":\\\"annotation\\\",\\\"_style\\\":{\\\"_foreground\\\":\\\"#85cdf1\\\",\\\"_bold\\\":null,\\\"_underline\\\":null,\\\"_italic\\\":null,\\\"_strikethrough\\\":null}},{\\\"_selector\\\":\\\"class\\\",\\\"_style\\\":{\\\"_foreground\\\":\\\"#8da8ff\\\",\\\"_bold\\\":null,\\\"_underline\\\":null,\\\"_italic\\\":null,\\\"_strikethrough\\\":null}}],\\\"extensionData\\\":{\\\"_extensionId\\\":\\\"undefined_publisher.monospace-theme\\\",\\\"_extensionIsBuiltin\\\":true,\\\"_extensionName\\\":\\\"monospace-theme\\\",\\\"_extensionPublisher\\\":\\\"undefined_publisher\\\"},\\\"themeSemanticHighlighting\\\":true,\\\"colorMap\\\":{\\\"focusBorder\\\":\\\"#5876de\\\",\\\"foreground\\\":\\\"#e1dfdf\\\",\\\"icon.foreground\\\":\\\"#e1dfdf\\\",\\\"widget.shadow\\\":\\\"#0a0a0a4d\\\",\\\"descriptionForeground\\\":\\\"#999999\\\",\\\"errorForeground\\\":\\\"#f76769\\\",\\\"toolbar.hoverBackground\\\":\\\"#e1dfdf1f\\\",\\\"toolbar.activeBackground\\\":\\\"#e1dfdf3d\\\",\\\"textLink.foreground\\\":\\\"#88a3ff\\\",\\\"textLink.activeForeground\\\":\\\"#98b1ff\\\",\\\"textBlockQuote.background\\\":\\\"#292929\\\",\\\"textBlockQuote.border\\\":\\\"#535353\\\",\\\"textCodeBlock.background\\\":\\\"#3e3e3e\\\",\\\"textPreformat.foreground\\\":\\\"#b0afaf\\\",\\\"textSeparator.foreground\\\":\\\"#6a6a6a\\\",\\\"list.warningForeground\\\":\\\"#ffb256\\\",\\\"list.errorForeground\\\":\\\"#fa7b7c\\\",\\\"button.background\\\":\\\"#7895ff\\\",\\\"button.hoverBackground\\\":\\\"#88a3ff\\\",\\\"button.foreground\\\":\\\"#000000\\\",\\\"button.secondaryBackground\\\":\\\"#535353\\\",\\\"button.secondaryForeground\\\":\\\"#ffffff\\\",\\\"button.secondaryHoverBackground\\\":\\\"#6a6a6a\\\",\\\"checkbox.background\\\":\\\"#292929\\\",\\\"checkbox.foreground\\\":\\\"#e1dfdf\\\",\\\"checkbox.border\\\":\\\"#494949\\\",\\\"dropdown.background\\\":\\\"#292929\\\",\\\"dropdown.border\\\":\\\"#494949\\\",\\\"dropdown.foreground\\\":\\\"#e1dfdf\\\",\\\"dropdown.listBackground\\\":\\\"#151515\\\",\\\"input.background\\\":\\\"#292929\\\",\\\"input.border\\\":\\\"#494949\\\",\\\"input.foreground\\\":\\\"#e1dfdf\\\",\\\"input.placeholderForeground\\\":\\\"#999999\\\",\\\"inputValidation.errorBorder\\\":\\\"#f76769\\\",\\\"inputOption.activeBorder\\\":\\\"#5876de\\\",\\\"inputOption.activeBackground\\\":\\\"#4563ca80\\\",\\\"inputOption.activeForeground\\\":\\\"#faf8f8\\\",\\\"badge.foreground\\\":\\\"#bbceff\\\",\\\"badge.background\\\":\\\"#3252b8\\\",\\\"progressBar.background\\\":\\\"#5876de\\\",\\\"titleBar.activeForeground\\\":\\\"#e1dfdf\\\",\\\"titleBar.activeBackground\\\":\\\"#1f1f1f\\\",\\\"titleBar.inactiveForeground\\\":\\\"#828282\\\",\\\"titleBar.inactiveBackground\\\":\\\"#151515\\\",\\\"titleBar.border\\\":\\\"#3e3e3e\\\",\\\"commandCenter.background\\\":\\\"#1f1f1f\\\",\\\"commandCenter.foreground\\\":\\\"#999999\\\",\\\"commandCenter.border\\\":\\\"#3e3e3e\\\",\\\"commandCenter.activeBackground\\\":\\\"#292929\\\",\\\"commandCenter.activeForeground\\\":\\\"#e1dfdf\\\",\\\"commandCenter.activeBorder\\\":\\\"#494949\\\",\\\"commandCenter.inactiveForeground\\\":\\\"#828282\\\",\\\"commandCenter.inactiveBorder\\\":\\\"#3e3e3e\\\",\\\"activityBar.foreground\\\":\\\"#e1dfdf\\\",\\\"activityBar.inactiveForeground\\\":\\\"#828282\\\",\\\"activityBar.background\\\":\\\"#1f1f1f\\\",\\\"activityBarBadge.foreground\\\":\\\"#000000\\\",\\\"activityBarBadge.background\\\":\\\"#7895ff\\\",\\\"activityBar.activeBorder\\\":\\\"#7895ff\\\",\\\"activityBar.border\\\":\\\"#3e3e3e\\\",\\\"sideBar.foreground\\\":\\\"#e1dfdf\\\",\\\"sideBar.background\\\":\\\"#151515\\\",\\\"sideBar.border\\\":\\\"#3e3e3e\\\",\\\"sideBarTitle.foreground\\\":\\\"#e1dfdf\\\",\\\"sideBarSectionHeader.foreground\\\":\\\"#e1dfdf\\\",\\\"sideBarSectionHeader.background\\\":\\\"#151515\\\",\\\"sideBarSectionHeader.border\\\":\\\"#3e3e3e\\\",\\\"list.hoverForeground\\\":\\\"#e1dfdf\\\",\\\"list.inactiveSelectionForeground\\\":\\\"#e1dfdf\\\",\\\"list.activeSelectionForeground\\\":\\\"#e1dfdf\\\",\\\"list.inactiveSelectionBackground\\\":\\\"#292929\\\",\\\"list.hoverBackground\\\":\\\"#292929\\\",\\\"list.activeSelectionBackground\\\":\\\"#343434\\\",\\\"list.inactiveFocusBackground\\\":\\\"#00258399\\\",\\\"list.focusBackground\\\":\\\"#002583\\\",\\\"tree.indentGuidesStroke\\\":\\\"#3e3e3e\\\",\\\"notificationCenterHeader.foreground\\\":\\\"#828282\\\",\\\"notificationCenterHeader.background\\\":\\\"#292929\\\",\\\"notifications.foreground\\\":\\\"#e1dfdf\\\",\\\"notifications.background\\\":\\\"#2e2e2e\\\",\\\"notifications.border\\\":\\\"#494949\\\",\\\"notificationToast.border\\\":\\\"#494949\\\",\\\"notificationsErrorIcon.foreground\\\":\\\"#f76769\\\",\\\"notificationsWarningIcon.foreground\\\":\\\"#ffa23e\\\",\\\"notificationsInfoIcon.foreground\\\":\\\"#999999\\\",\\\"pickerGroup.border\\\":\\\"#535353\\\",\\\"pickerGroup.foreground\\\":\\\"#e1dfdf\\\",\\\"quickInput.background\\\":\\\"#151515\\\",\\\"quickInput.foreground\\\":\\\"#e1dfdf\\\",\\\"quickInputTitle.background\\\":\\\"#151515\\\",\\\"keybindingLabel.background\\\":\\\"#1f1f1f\\\",\\\"keybindingLabel.foreground\\\":\\\"#e1dfdf\\\",\\\"keybindingLabel.border\\\":\\\"#3e3e3e\\\",\\\"keybindingLabel.bottomBorder\\\":\\\"#3e3e3e\\\",\\\"statusBar.foreground\\\":\\\"#b0afaf\\\",\\\"statusBar.background\\\":\\\"#292929\\\",\\\"statusBar.border\\\":\\\"#3e3e3e\\\",\\\"statusBar.noFolderBackground\\\":\\\"#292929\\\",\\\"statusBar.debuggingBackground\\\":\\\"#891524\\\",\\\"statusBar.debuggingForeground\\\":\\\"#ffffff\\\",\\\"statusBarItem.prominentBackground\\\":\\\"#282e34\\\",\\\"editorGroupHeader.tabsBackground\\\":\\\"#151515\\\",\\\"editorGroupHeader.tabsBorder\\\":\\\"#3e3e3e\\\",\\\"editorGroup.border\\\":\\\"#3e3e3e\\\",\\\"tab.activeForeground\\\":\\\"#e1dfdf\\\",\\\"tab.inactiveForeground\\\":\\\"#b0afaf\\\",\\\"tab.inactiveBackground\\\":\\\"#151515\\\",\\\"tab.activeBackground\\\":\\\"#1f1f1f\\\",\\\"tab.activeBorder\\\":\\\"#1f1f1f\\\",\\\"tab.activeBorderTop\\\":\\\"#7895ff\\\",\\\"tab.border\\\":\\\"#3e3e3e\\\",\\\"tab.hoverBackground\\\":\\\"#1f1f1f\\\",\\\"tab.unfocusedActiveForeground\\\":\\\"#828282\\\",\\\"tab.unfocusedInactiveForeground\\\":\\\"#828282\\\",\\\"tab.unfocusedHoverForeground\\\":\\\"#b0afaf\\\",\\\"tab.unfocusedHoverBackground\\\":\\\"#292929\\\",\\\"tab.unfocusedActiveBorderTop\\\":\\\"#3e3e3e\\\",\\\"tab.unfocusedActiveBorder\\\":\\\"#1f1f1f\\\",\\\"breadcrumb.foreground\\\":\\\"#999999\\\",\\\"breadcrumb.focusForeground\\\":\\\"#e1dfdf\\\",\\\"breadcrumb.activeSelectionForeground\\\":\\\"#b0afaf\\\",\\\"breadcrumbPicker.background\\\":\\\"#1f1f1f\\\",\\\"editor.foreground\\\":\\\"#e1dfdf\\\",\\\"editor.background\\\":\\\"#1f1f1f\\\",\\\"editorLink.activeForeground\\\":\\\"#7895ff\\\",\\\"editorCodeLens.foreground\\\":\\\"#999999\\\",\\\"editorWidget.background\\\":\\\"#292929\\\",\\\"editorWidget.border\\\":\\\"#6a6a6a\\\",\\\"editor.foldBackground\\\":\\\"#252525\\\",\\\"editor.lineHighlightBackground\\\":\\\"#292929\\\",\\\"editorLineNumber.foreground\\\":\\\"#535353\\\",\\\"editorLineNumber.activeForeground\\\":\\\"#e1dfdf\\\",\\\"editorIndentGuide.background\\\":\\\"#3e3e3e\\\",\\\"editorIndentGuide.activeBackground\\\":\\\"#535353\\\",\\\"editorWhitespace.foreground\\\":\\\"#535353\\\",\\\"editorCursor.foreground\\\":\\\"#bbceff\\\",\\\"editorError.foreground\\\":\\\"#fc8f8e\\\",\\\"editorWarning.foreground\\\":\\\"#ffc26e\\\",\\\"editorInfo.foreground\\\":\\\"#98b1ff\\\",\\\"editorHint.foreground\\\":\\\"#66ce98\\\",\\\"editorLightBulb.foreground\\\":\\\"#ffc26e\\\",\\\"problemsErrorIcon.foreground\\\":\\\"#f76769\\\",\\\"problemsWarningIcon.foreground\\\":\\\"#ffa23e\\\",\\\"problemsInfoIcon.foreground\\\":\\\"#999999\\\",\\\"sash.hoverBorder\\\":\\\"#7895ff\\\",\\\"editor.findMatchBackground\\\":\\\"#83431466\\\",\\\"editor.findMatchBorder\\\":\\\"#ffa23e\\\",\\\"editor.findMatchHighlightBackground\\\":\\\"#83431499\\\",\\\"editor.findMatchHighlightBorder\\\":\\\"#834314\\\",\\\"peekView.border\\\":\\\"#7895ff\\\",\\\"peekViewEditor.matchHighlightBackground\\\":\\\"#83431466\\\",\\\"peekViewEditor.matchHighlightBorder\\\":\\\"#ffa23e4d\\\",\\\"peekViewResult.matchHighlightBackground\\\":\\\"#83431466\\\",\\\"peekViewEditor.background\\\":\\\"#151515\\\",\\\"peekViewResult.background\\\":\\\"#0a0a0a\\\",\\\"peekViewResult.selectionBackground\\\":\\\"#3e3e3e\\\",\\\"editor.linkedEditingBackground\\\":\\\"#4d21bb99\\\",\\\"editor.inactiveSelectionBackground\\\":\\\"#3252b84d\\\",\\\"editor.selectionBackground\\\":\\\"#3252b880\\\",\\\"editor.selectionHighlightBackground\\\":\\\"#3e3e3e99\\\",\\\"editor.selectionHighlightBorder\\\":\\\"#3e3e3e\\\",\\\"editor.wordHighlightBackground\\\":\\\"#882d0066\\\",\\\"editor.wordHighlightStrongBackground\\\":\\\"#882d0099\\\",\\\"editor.wordHighlightBorder\\\":\\\"#882d00\\\",\\\"editor.wordHighlightStrongBorder\\\":\\\"#882d00\\\",\\\"editorBracketMatch.background\\\":\\\"#004b5e99\\\",\\\"editorBracketMatch.border\\\":\\\"#004b5e\\\",\\\"editorGutter.modifiedBackground\\\":\\\"#4563ca\\\",\\\"editorGutter.addedBackground\\\":\\\"#17975f80\\\",\\\"editorGutter.deletedBackground\\\":\\\"#df4047\\\",\\\"editorGutter.foldingControlForeground\\\":\\\"#999999\\\",\\\"diffEditor.border\\\":\\\"#3e3e3e\\\",\\\"diffEditor.insertedTextBackground\\\":\\\"#17975f33\\\",\\\"diffEditor.removedTextBackground\\\":\\\"#df404733\\\",\\\"diffEditor.insertedLineBackground\\\":\\\"#17975f33\\\",\\\"diffEditor.removedLineBackground\\\":\\\"#df404733\\\",\\\"diffEditorGutter.insertedLineBackground\\\":\\\"#17975f1a\\\",\\\"diffEditorGutter.removedLineBackground\\\":\\\"#df40471a\\\",\\\"diffEditorOverview.insertedForeground\\\":\\\"#17975f66\\\",\\\"diffEditorOverview.removedForeground\\\":\\\"#df404766\\\",\\\"diffEditor.move.border\\\":\\\"#828282\\\",\\\"diffEditor.moveActive.border\\\":\\\"#7895ff\\\",\\\"scrollbar.shadow\\\":\\\"#00000088\\\",\\\"scrollbarSlider.background\\\":\\\"#6a737d33\\\",\\\"scrollbarSlider.hoverBackground\\\":\\\"#6a737d44\\\",\\\"scrollbarSlider.activeBackground\\\":\\\"#6a737d88\\\",\\\"editorOverviewRuler.border\\\":\\\"#000000\\\",\\\"panel.background\\\":\\\"#151515\\\",\\\"panel.border\\\":\\\"#3e3e3e\\\",\\\"panelTitle.activeBorder\\\":\\\"#7895ff\\\",\\\"panelTitle.activeForeground\\\":\\\"#e1dfdf\\\",\\\"panelTitle.inactiveForeground\\\":\\\"#b0afaf\\\",\\\"panelInput.border\\\":\\\"#3e3e3e\\\",\\\"panelSectionHeader.background\\\":\\\"#00000000\\\",\\\"panelSectionHeader.foreground\\\":\\\"#e1dfdf\\\",\\\"panelSection.border\\\":\\\"#3e3e3e\\\",\\\"menu.foreground\\\":\\\"#e1dfdf\\\",\\\"menu.background\\\":\\\"#151515\\\",\\\"menu.selectionForeground\\\":\\\"#e1dfdf\\\",\\\"menu.selectionBackground\\\":\\\"#292929\\\",\\\"menu.separatorBackground\\\":\\\"#3e3e3e\\\",\\\"menu.border\\\":\\\"#494949\\\",\\\"terminal.foreground\\\":\\\"#b0afaf\\\",\\\"terminal.tab.activeBorder\\\":\\\"#7895ff\\\",\\\"terminalCursor.background\\\":\\\"#6a6a6a\\\",\\\"terminalCursor.foreground\\\":\\\"#98b1ff\\\",\\\"terminal.ansiBrightWhite\\\":\\\"#fdfcfc\\\",\\\"terminal.ansiWhite\\\":\\\"#b0afaf\\\",\\\"terminal.ansiBrightBlack\\\":\\\"#999999\\\",\\\"terminal.ansiBlack\\\":\\\"#828282\\\",\\\"terminal.ansiBlue\\\":\\\"#7895ff\\\",\\\"terminal.ansiBrightBlue\\\":\\\"#98b1ff\\\",\\\"terminal.ansiGreen\\\":\\\"#17b877\\\",\\\"terminal.ansiBrightGreen\\\":\\\"#66ce98\\\",\\\"terminal.ansiCyan\\\":\\\"#25a6e9\\\",\\\"terminal.ansiBrightCyan\\\":\\\"#71c2ee\\\",\\\"terminal.ansiRed\\\":\\\"#f76769\\\",\\\"terminal.ansiBrightRed\\\":\\\"#fc8f8e\\\",\\\"terminal.ansiMagenta\\\":\\\"#a87ffb\\\",\\\"terminal.ansiBrightMagenta\\\":\\\"#c8aaff\\\",\\\"terminal.ansiYellow\\\":\\\"#ffa23e\\\",\\\"terminal.ansiBrightYellow\\\":\\\"#ffc26e\\\",\\\"gitDecoration.addedResourceForeground\\\":\\\"#17b877\\\",\\\"gitDecoration.untrackedResourceForeground\\\":\\\"#17b877\\\",\\\"gitDecoration.modifiedResourceForeground\\\":\\\"#7895ff\\\",\\\"gitDecoration.deletedResourceForeground\\\":\\\"#f76769\\\",\\\"gitDecoration.conflictingResourceForeground\\\":\\\"#ffc26e\\\",\\\"gitDecoration.ignoredResourceForeground\\\":\\\"#828282\\\",\\\"gitDecoration.submoduleResourceForeground\\\":\\\"#828282\\\",\\\"debugToolBar.background\\\":\\\"#292929\\\",\\\"editor.stackFrameHighlightBackground\\\":\\\"#c6902625\\\",\\\"editor.focusedStackFrameHighlightBackground\\\":\\\"#2b6a3033\\\",\\\"settings.headerForeground\\\":\\\"#e1dfdf\\\",\\\"settings.modifiedItemIndicator\\\":\\\"#5876de\\\",\\\"welcomePage.buttonBackground\\\":\\\"#3e3e3e\\\",\\\"welcomePage.buttonHoverBackground\\\":\\\"#535353\\\",\\\"editorBracketHighlight.foreground1\\\":\\\"#85cdf1\\\",\\\"editorBracketHighlight.foreground2\\\":\\\"#ffd395\\\",\\\"editorBracketHighlight.foreground3\\\":\\\"#bd9cfe\\\",\\\"editorBracketHighlight.foreground4\\\":\\\"#85cdf1\\\",\\\"editorBracketHighlight.foreground5\\\":\\\"#ffd395\\\",\\\"editorBracketHighlight.foreground6\\\":\\\"#bd9cfe\\\",\\\"editorGhostText.foreground\\\":\\\"#6a6a6a\\\",\\\"editorInlayHint.foreground\\\":\\\"#999999\\\",\\\"editorInlayHint.background\\\":\\\"#82828233\\\",\\\"editorInlayHint.typeForeground\\\":\\\"#999999\\\",\\\"editorInlayHint.typeBackground\\\":\\\"#82828233\\\"},\\\"watch\\\":false}\",\"themeUpdatedNotificationShown\":\"true\",\"workbench.panel.alignment\":\"center\",\"github-Anyinc1t\":\"[{\\\"id\\\":\\\"vscode.configuration-editing\\\",\\\"name\\\":\\\"Configuration Editing\\\",\\\"allowed\\\":true}]\"}}"}
+
+next.config.ts:
+  29  
+  30: export default nextConfig;
+
+package-lock.json:
+  1674      },
+  1675:     "node_modules/@opentelemetry/exporter-trace-otlp-grpc": {
+  1676        "version": "0.52.1",
+  1677:       "resolved": "https://registry.npmjs.org/@opentelemetry/exporter-trace-otlp-grpc/-/exporter-trace-otlp-grpc-0.52.1.tgz",
+  1678        "integrity": "sha512-pVkSH20crBwMTqB3nIN4jpQKUEoB0Z94drIHpYyEqs7UBr+I0cpYyOR3bqjA/UasQUMROb3GX8ZX4/9cVRqGBQ==",
+
+  1682          "@opentelemetry/core": "1.25.1",
+  1683:         "@opentelemetry/otlp-grpc-exporter-base": "0.52.1",
+  1684          "@opentelemetry/otlp-transformer": "0.52.1",
+
+  1694      },
+  1695:     "node_modules/@opentelemetry/exporter-trace-otlp-grpc/node_modules/@opentelemetry/core": {
+  1696        "version": "1.25.1",
+
+  1709      },
+  1710:     "node_modules/@opentelemetry/exporter-trace-otlp-grpc/node_modules/@opentelemetry/resources": {
+  1711        "version": "1.25.1",
+
+  1725      },
+  1726:     "node_modules/@opentelemetry/exporter-trace-otlp-grpc/node_modules/@opentelemetry/sdk-trace-base": {
+  1727        "version": "1.25.1",
+
+  1742      },
+  1743:     "node_modules/@opentelemetry/exporter-trace-otlp-grpc/node_modules/@opentelemetry/semantic-conventions": {
+  1744        "version": "1.25.1",
+
+  1751      },
+  1752:     "node_modules/@opentelemetry/exporter-trace-otlp-http": {
+  1753        "version": "0.52.1",
+  1754:       "resolved": "https://registry.npmjs.org/@opentelemetry/exporter-trace-otlp-http/-/exporter-trace-otlp-http-0.52.1.tgz",
+  1755        "integrity": "sha512-05HcNizx0BxcFKKnS5rwOV+2GevLTVIRA0tRgWYyw4yCgR53Ic/xk83toYKts7kbzcI+dswInUg/4s8oyA+tqg==",
+
+  1758          "@opentelemetry/core": "1.25.1",
+  1759:         "@opentelemetry/otlp-exporter-base": "0.52.1",
+  1760          "@opentelemetry/otlp-transformer": "0.52.1",
+
+  1770      },
+  1771:     "node_modules/@opentelemetry/exporter-trace-otlp-http/node_modules/@opentelemetry/core": {
+  1772        "version": "1.25.1",
+
+  1785      },
+  1786:     "node_modules/@opentelemetry/exporter-trace-otlp-http/node_modules/@opentelemetry/resources": {
+  1787        "version": "1.25.1",
+
+  1801      },
+  1802:     "node_modules/@opentelemetry/exporter-trace-otlp-http/node_modules/@opentelemetry/sdk-trace-base": {
+  1803        "version": "1.25.1",
+
+  1818      },
+  1819:     "node_modules/@opentelemetry/exporter-trace-otlp-http/node_modules/@opentelemetry/semantic-conventions": {
+  1820        "version": "1.25.1",
+
+  1827      },
+  1828:     "node_modules/@opentelemetry/exporter-trace-otlp-proto": {
+  1829        "version": "0.52.1",
+  1830:       "resolved": "https://registry.npmjs.org/@opentelemetry/exporter-trace-otlp-proto/-/exporter-trace-otlp-proto-0.52.1.tgz",
+  1831        "integrity": "sha512-pt6uX0noTQReHXNeEslQv7x311/F1gJzMnp1HD2qgypLRPbXDeMzzeTngRTUaUbP6hqWNtPxuLr4DEoZG+TcEQ==",
+
+  1834          "@opentelemetry/core": "1.25.1",
+  1835:         "@opentelemetry/otlp-exporter-base": "0.52.1",
+  1836          "@opentelemetry/otlp-transformer": "0.52.1",
+
+  1846      },
+  1847:     "node_modules/@opentelemetry/exporter-trace-otlp-proto/node_modules/@opentelemetry/core": {
+  1848        "version": "1.25.1",
+
+  1861      },
+  1862:     "node_modules/@opentelemetry/exporter-trace-otlp-proto/node_modules/@opentelemetry/resources": {
+  1863        "version": "1.25.1",
+
+  1877      },
+  1878:     "node_modules/@opentelemetry/exporter-trace-otlp-proto/node_modules/@opentelemetry/sdk-trace-base": {
+  1879        "version": "1.25.1",
+
+  1894      },
+  1895:     "node_modules/@opentelemetry/exporter-trace-otlp-proto/node_modules/@opentelemetry/semantic-conventions": {
+  1896        "version": "1.25.1",
+
+  1903      },
+  1904:     "node_modules/@opentelemetry/exporter-zipkin": {
+  1905        "version": "1.25.1",
+  1906:       "resolved": "https://registry.npmjs.org/@opentelemetry/exporter-zipkin/-/exporter-zipkin-1.25.1.tgz",
+  1907        "integrity": "sha512-RmOwSvkimg7ETwJbUOPTMhJm9A9bG1U8s7Zo3ajDh4zM7eYcycQ0dM7FbLD6NXWbI2yj7UY4q8BKinKYBQksyw==",
+
+  1921      },
+  1922:     "node_modules/@opentelemetry/exporter-zipkin/node_modules/@opentelemetry/core": {
+  1923        "version": "1.25.1",
+
+  1936      },
+  1937:     "node_modules/@opentelemetry/exporter-zipkin/node_modules/@opentelemetry/resources": {
+  1938        "version": "1.25.1",
+
+  1952      },
+  1953:     "node_modules/@opentelemetry/exporter-zipkin/node_modules/@opentelemetry/sdk-trace-base": {
+  1954        "version": "1.25.1",
+
+  1969      },
+  1970:     "node_modules/@opentelemetry/exporter-zipkin/node_modules/@opentelemetry/semantic-conventions": {
+  1971        "version": "1.25.1",
+
+  1998      },
+  1999:     "node_modules/@opentelemetry/otlp-exporter-base": {
+  2000        "version": "0.52.1",
+  2001:       "resolved": "https://registry.npmjs.org/@opentelemetry/otlp-exporter-base/-/otlp-exporter-base-0.52.1.tgz",
+  2002        "integrity": "sha512-z175NXOtX5ihdlshtYBe5RpGeBoTXVCKPPLiQlD6FHvpM4Ch+p2B0yWKYSrBfLH24H9zjJiBdTrtD+hLlfnXEQ==",
+
+  2014      },
+  2015:     "node_modules/@opentelemetry/otlp-exporter-base/node_modules/@opentelemetry/core": {
+  2016        "version": "1.25.1",
+
+  2029      },
+  2030:     "node_modules/@opentelemetry/otlp-exporter-base/node_modules/@opentelemetry/semantic-conventions": {
+  2031        "version": "1.25.1",
+
+  2038      },
+  2039:     "node_modules/@opentelemetry/otlp-grpc-exporter-base": {
+  2040        "version": "0.52.1",
+  2041:       "resolved": "https://registry.npmjs.org/@opentelemetry/otlp-grpc-exporter-base/-/otlp-grpc-exporter-base-0.52.1.tgz",
+  2042        "integrity": "sha512-zo/YrSDmKMjG+vPeA9aBBrsQM9Q/f2zo6N04WMB3yNldJRsgpRBeLLwvAt/Ba7dpehDLOEFBd1i2JCoaFtpCoQ==",
+
+  2046          "@opentelemetry/core": "1.25.1",
+  2047:         "@opentelemetry/otlp-exporter-base": "0.52.1",
+  2048          "@opentelemetry/otlp-transformer": "0.52.1"
+
+  2056      },
+  2057:     "node_modules/@opentelemetry/otlp-grpc-exporter-base/node_modules/@opentelemetry/core": {
+  2058        "version": "1.25.1",
+
+  2071      },
+  2072:     "node_modules/@opentelemetry/otlp-grpc-exporter-base/node_modules/@opentelemetry/semantic-conventions": {
+  2073        "version": "1.25.1",
+
+  2350          "@opentelemetry/core": "1.25.1",
+  2351:         "@opentelemetry/exporter-trace-otlp-grpc": "0.52.1",
+  2352:         "@opentelemetry/exporter-trace-otlp-http": "0.52.1",
+  2353:         "@opentelemetry/exporter-trace-otlp-proto": "0.52.1",
+  2354:         "@opentelemetry/exporter-zipkin": "1.25.1",
+  2355          "@opentelemetry/instrumentation": "0.52.1",
+
+postcss.config.mjs:
+  7  
+  8: export default config;
+
+tailwind.config.ts:
+  2  
+  3: export default {
+  4    darkMode: ['class'],
+
+src/middleware.ts:
+  24  
+  25: export function middleware(request: NextRequest) {
+  26    const pathname = request.nextUrl.pathname;
+
+  60  
+  61: export const config = {
+  62    matcher: [
+
+src/ai/genkit.ts:
+  3  
+  4: export const ai = genkit({
+  5    plugins: [googleAI()],
+
+src/ai/flows/generate-marketing-idea.ts:
+  22  
+  23: export type GenerateMarketingIdeaInput = z.infer<
+  24    typeof GenerateMarketingIdeaInputSchema
+
+  33  
+  34: export type GenerateMarketingIdeaOutput = z.infer<
+  35    typeof GenerateMarketingIdeaOutputSchema
+
+  38  // Define the wrapper function
+  39: export async function generateMarketingIdea(
+  40    input: GenerateMarketingIdeaInput
+
+src/app/layout.tsx:
+  16  // Basic metadata for the root layout. More specific metadata will be in [lang]/layout.tsx
+  17: export const metadata: Metadata = {
+  18    title: 'ANY Marketing Catalyst', // Generic title
+
+  21  
+  22: export default function RootLayout({
+  23    children,
+
+src/app/[lang]/layout.tsx:
+   9  // This function generates metadata for language-specific pages.
+  10: export async function generateMetadata({ params: { lang } }: { params: { lang: Locale } }): Promise<Metadata> {
+  11    const dict = await getDictionary(lang);
+
+  47  // It no longer renders <html> or <body> as that's handled by src/app/layout.tsx.
+  48: export default async function LangLayout({
+  49    children,
+
+src/app/[lang]/page.tsx:
+  13  // It should only return the content for the page, not any <html> or layout structure.
+  14: export default async function HomePage({ params: { lang } }: { params: { lang: Locale } }) {
+  15    const dict = await getDictionary(lang);
+
+src/app/[lang]/contact/page.tsx:
+   9  
+  10: export async function generateMetadata({ params: { lang } }: { params: { lang: Locale } }) {
+  11    const dict = await getDictionary(lang);
+
+  23  
+  24: export default async function ContactPage({ params: { lang } }: { params: { lang: Locale } }) {
+  25    const dict = await getDictionary(lang);
+
+src/app/[lang]/projects/page.tsx:
+   6  
+   7: export async function generateMetadata({ params: { lang } }: { params: { lang: Locale } }) {
+   8    const dict = await getDictionary(lang);
+
+  21  
+  22: export default async function ProjectsPage({ params: { lang } }: { params: { lang: Locale } }) {
+  23    const dict = await getDictionary(lang);
+
+src/app/[lang]/services/page.tsx:
+  10  
+  11: export async function generateMetadata({ params: { lang } }: { params: { lang: Locale } }) {
+  12    const dict = await getDictionary(lang);
+
+  24  
+  25: export default async function ServicesPage({ params: { lang } }: { params: { lang: Locale } }) {
+  26    const dict = await getDictionary(lang);
+
+src/components/Footer.tsx:
+  23  
+  24: export default Footer;
+
+src/components/Hero.tsx:
+  70  
+  71: export default Hero;
+
+src/components/PricingSection.tsx:
+  71  
+  72: export default PricingSection;
+
+src/components/Process.tsx:
+  67  
+  68: export default Process;
+
+src/components/ProjectListDisplay.tsx:
+  16  
+  17: export default function ProjectListDisplay({ projects, hideDetailsText }: ProjectListDisplayProps) {
+  18    const [expandedProjects, setExpandedProjects] = useState<Record<string, boolean>>({});
+
+src/components/Services.tsx:
+  62  
+  63: export default Services;
+
+src/components/Testimonials.tsx:
+  137  
+  138: export default Testimonials;
+
+src/components/ai/MarketingIdeaGenerator.tsx:
+  89  
+  90: export default MarketingIdeaGenerator;
+
+src/components/forms/LeadForm.tsx:
+  70  
+  71: export default LeadForm;
+
+src/components/layout/MainHeader.tsx:
+  143  
+  144: export default MainHeader;
+
+src/components/sections/ContactSection.tsx:
+  34  
+  35: export default ContactSection;
+
+src/components/ui/accordion.tsx:
+  57  
+  58: export { Accordion, AccordionItem, AccordionTrigger, AccordionContent }
+
+src/components/ui/alert-dialog.tsx:
+  128  
+  129: export {
+  130    AlertDialog,
+
+src/components/ui/alert.tsx:
+  58  
+  59: export { Alert, AlertTitle, AlertDescription }
+
+src/components/ui/AnimatedWrapper.tsx:
+  43  
+  44: export default AnimatedWrapper;
+
+src/components/ui/avatar.tsx:
+  49  
+  50: export { Avatar, AvatarImage, AvatarFallback }
+
+src/components/ui/badge.tsx:
+  25  
+  26: export interface BadgeProps
+  27    extends React.HTMLAttributes<HTMLDivElement>,
+
+  35  
+  36: export { Badge, badgeVariants }
+
+src/components/ui/button.tsx:
+  35  
+  36: export interface ButtonProps
+  37    extends React.ButtonHTMLAttributes<HTMLButtonElement>,
+
+  55  
+  56: export { Button, buttonVariants }
+
+src/components/ui/calendar.tsx:
+   9  
+  10: export type CalendarProps = React.ComponentProps<typeof DayPicker>
+  11  
+
+  69  
+  70: export { Calendar }
+
+src/components/ui/card.tsx:
+  78  
+  79: export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent }
+
+src/components/ui/chart.tsx:
+   10  
+   11: export type ChartConfig = {
+   12    [k in string]: {
+
+  357  
+  358: export {
+  359    ChartContainer,
+
+src/components/ui/checkbox.tsx:
+  29  
+  30: export { Checkbox }
+
+src/components/ui/dialog.tsx:
+  110  
+  111: export {
+  112    Dialog,
+
+src/components/ui/dropdown-menu.tsx:
+  183  
+  184: export {
+  185    DropdownMenu,
+
+src/components/ui/form.tsx:
+  168  
+  169: export {
+  170    useFormField,
+
+src/components/ui/input.tsx:
+  21  
+  22: export { Input }
+
+src/components/ui/label.tsx:
+  25  
+  26: export { Label }
+
+src/components/ui/menubar.tsx:
+  238  
+  239: export {
+  240    Menubar,
+
+src/components/ui/popover.tsx:
+  30  
+  31: export { Popover, PopoverTrigger, PopoverContent }
+
+src/components/ui/progress.tsx:
+  27  
+  28: export { Progress }
+
+src/components/ui/radio-group.tsx:
+  43  
+  44: export { RadioGroup, RadioGroupItem }
+
+src/components/ui/scroll-area.tsx:
+  47  
+  48: export { ScrollArea, ScrollBar }
+
+src/components/ui/select.tsx:
+  148  
+  149: export {
+  150    Select,
+
+src/components/ui/separator.tsx:
+  30  
+  31: export { Separator }
+
+src/components/ui/sheet.tsx:
+  128  
+  129: export {
+  130    Sheet,
+
+src/components/ui/sidebar.tsx:
+  737  
+  738: export {
+  739    Sidebar,
+
+src/components/ui/skeleton.tsx:
+  14  
+  15: export { Skeleton }
+
+src/components/ui/slider.tsx:
+  27  
+  28: export { Slider }
+
+src/components/ui/switch.tsx:
+  28  
+  29: export { Switch }
+
+src/components/ui/table.tsx:
+  107  
+  108: export {
+  109    Table,
+
+src/components/ui/tabs.tsx:
+  54  
+  55: export { Tabs, TabsList, TabsTrigger, TabsContent }
+
+src/components/ui/textarea.tsx:
+  20  
+  21: export {Textarea};
+
+src/components/ui/toast.tsx:
+  118  
+  119: export {
+  120    type ToastProps,
+
+src/components/ui/toaster.tsx:
+  12  
+  13: export function Toaster() {
+  14    const { toasts } = useToast()
+
+src/components/ui/tooltip.tsx:
+  29  
+  30: export { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider }
+
+src/hooks/use-mobile.tsx:
+  4  
+  5: export function useIsMobile() {
+  6    const [isMobile, setIsMobile] = React.useState<boolean | undefined>(undefined)
+
+src/hooks/use-toast.ts:
+   76  
+   77: export const reducer = (state: State, action: Action): State => {
+   78    switch (action.type) {
+
+  193  
+  194: export { useToast, toast }
+
+src/lib/dictionaries.ts:
+    4  
+    5: export const i18n = {
+    6    defaultLocale: 'en',
+
+    9  
+   10: export type Locale = (typeof i18n.locales)[number];
+   11  
+   12: export type Dictionary = {
+   13    metadata: {
+
+  133  
+  134: export const MINIMAL_FALLBACK_DICTIONARY: Dictionary = {
+  135    metadata: {
+
+  323  
+  324: export const getDictionary = cache(async (locale: Locale): Promise<Dictionary> => {
+  325    const loadDict = dictionaries[locale] || dictionaries.en;
+
+  337  
+  338: export interface LocaleLinkProps {
+  339    href: string;
+
+  347  // This function is not directly used by getDictionary but useful for middleware or server components
+  348: export function getLocaleFromRequest(request: { headers: Headers, cookies: NextRequest['cookies'] }): Locale {
+  349    // 1. Check cookie
+
+src/lib/utils.ts:
+  3  
+  4: export function cn(...inputs: ClassValue[]) {
+  5    return twMerge(clsx(inputs))
